@@ -1,0 +1,6 @@
+Oeste|Warriors|F|23|18383|Green, Draymond|31124.6
+Oeste|Warriors|G|9|17491|Iguodala, Andre|29638
+Oeste|Warriors|C|15|10572|Jones, Damian|24274
+Este|Bucks|F|7|16016|Maker, Thon|34933.9
+Este|Bucks|G|30|17158|Morris, Jaylen (TW)|30773
+Este|Bucks|C|11|12502|Lopez, Brook|22908

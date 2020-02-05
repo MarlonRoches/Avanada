@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "appPA18Ejercicio1P2", "appPA18Ejercicio1P2\appPA18Ejercicio1P2.vcxproj", "{15B7F50C-CFDA-49F5-A1E1-5510FFB302FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B7F50C-CFDA-49F5-A1E1-5510FFB302FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15B7F50C-CFDA-49F5-A1E1-5510FFB302FB}.Debug|Win32.Build.0 = Debug|Win32
+		{15B7F50C-CFDA-49F5-A1E1-5510FFB302FB}.Release|Win32.ActiveCfg = Release|Win32
+		{15B7F50C-CFDA-49F5-A1E1-5510FFB302FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

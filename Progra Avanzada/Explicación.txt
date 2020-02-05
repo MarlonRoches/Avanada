@@ -1,0 +1,3 @@
+El .Split(), no me funciono con '|', lo cambie por '$'.
+
+Disculpe la molestas :)
